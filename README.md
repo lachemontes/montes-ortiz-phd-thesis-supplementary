@@ -82,11 +82,6 @@ Page numbers refer to the printed thesis.
 
 Papers I and II are unpublished manuscripts. The data are provided to support evaluation of the thesis. Please contact the author before reusing them.
 
-## Citation
-
-If you use material from this repository, please cite:
-
-Montes-Ortiz Z (2026). Supplementary material for the PhD thesis "Evolution of multigene families in insect and non-insect arthropods". Zenodo. https://doi.org/[DOI]
 
 ## Contact
 
